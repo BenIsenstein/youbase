@@ -1,0 +1,4 @@
+project_name = "youbase"
+repo_name = "youbase"
+supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzdHZqeGZkc2R1dHdnaWx3em9jIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTI3NzYxMjIsImV4cCI6MjAyODM1MjEyMn0.AYWg9A4PE95-92Zu6UNo1eMTWcS5DQwERqTGS3YDEzw"
+supabase_url = "https://sstvjxfdsdutwgilwzoc.supabase.co"
